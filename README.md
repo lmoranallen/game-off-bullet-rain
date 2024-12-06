@@ -19,6 +19,11 @@
 > You should now be set up with initial dependencies in a virtual environment
 
 
+## Development
+- `pyxel watch ../game-off-bullet-rain play.py`
+- Allows for auto-updates when making devlopment changes
+
+
 ## About
 - The aim of the game is to create a 2-D top-down arcade shooter where the difficulty of the game is dependent on the BPM or pace of music playing in the background. The faster the music's tempo, the more difficult and challenging a game will be. 
 
