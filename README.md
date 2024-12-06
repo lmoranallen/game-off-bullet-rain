@@ -9,6 +9,15 @@
 ## Requirements Gathering Board
 - https://trello.com/b/943NztMc/game-off-2024-bullet-hell-and-spotify
 
+## Getting Started
+- Python version: `Python 3.10.12`
+- Create virtual environment: `python3 -m venv {ENV_NAME}`
+- Start virtual environment: `source {ENV_NAME}/bin/activate`
+- Install required packages: `python3 -m pip install -r requirements.txt`
+- Confirm dependencies are linked: `pyxel copy_examples && cd pyxel_examples && python 01_hello_pyxel.py`
+
+> You should now be set up with initial dependencies in a virtual environment
+
 
 ## About
 - The aim of the game is to create a 2-D top-down arcade shooter where the difficulty of the game is dependent on the BPM or pace of music playing in the background. The faster the music's tempo, the more difficult and challenging a game will be. 
